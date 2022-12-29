@@ -1,0 +1,21 @@
+.headerStyle{
+  width: 100%;
+  position: relative;
+  height: 60px;
+  color:#FF0000;
+  font-weight: bolder;
+  font-size: 1rem;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  background-color: #fff;
+  border-bottom: 1px solid black;
+}
+
+@media screen and (max-width: 500px){
+  .headerStyle{
+    font-size: 0.8rem;
+  }
+}
