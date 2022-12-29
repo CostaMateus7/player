@@ -9,7 +9,7 @@ cd player
 ```
 - Instale as dependencias
 ```bash
-npm instal
+npm install
 ```
 ou 
 ```bash
